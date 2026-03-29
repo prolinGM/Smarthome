@@ -1,0 +1,9 @@
+uart\cjson.o: ..\bsp\cJSON.c
+uart\cjson.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+uart\cjson.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+uart\cjson.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+uart\cjson.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+uart\cjson.o: D:\Keil5\ARM\ARMCC\Bin\..\include\float.h
+uart\cjson.o: D:\Keil5\ARM\ARMCC\Bin\..\include\limits.h
+uart\cjson.o: D:\Keil5\ARM\ARMCC\Bin\..\include\ctype.h
+uart\cjson.o: ..\bsp\cJSON.h
